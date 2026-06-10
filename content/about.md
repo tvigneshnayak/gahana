@@ -1,0 +1,13 @@
+---
+title: "ನನ್ನ ಬಗ್ಗೆ"
+---
+
+ನಾನು ಕನ್ನಡದಲ್ಲಿ ತಂತ್ರಜ್ಞಾನ, ಭಾಷೆ, ಇತಿಹಾಸ ಮತ್ತು ಚಿಂತನೆಗಳ ಬಗ್ಗೆ ಬರೆಯುತ್ತೇನೆ.
+
+### ಸಂಪರ್ಕ
+
+Instagram: https://instagram.com/yourhandle
+
+GitHub: https://github.com/tvigneshnayak
+
+Email: yourmail@example.com

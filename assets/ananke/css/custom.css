@@ -1,0 +1,21 @@
+header.cover {
+    min-height: 35vh !important;
+}
+
+.f2.f-subheadline-l {
+    font-size: 4rem !important;
+}
+
+.measure-wide {
+    max-width: 850px !important;
+}
+
+.ph3 {
+    padding-left: 2rem !important;
+    padding-right: 2rem !important;
+}
+
+article {
+    font-size: 1.15rem;
+    line-height: 1.9;
+}

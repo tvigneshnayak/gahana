@@ -1,0 +1,24 @@
+baseURL = '/'
+locale = 'kn-IN'
+title = 'ಗಹನ'
+theme = 'ananke'
+
+[pagination]
+pagerSize = 10
+
+[params]
+description = 'ಕನ್ನಡದಲ್ಲಿ ತಂತ್ರಜ್ಞಾನ, ಇತಿಹಾಸ, ಭಾಷೆ ಮತ್ತು ಚಿಂತನೆ'
+
+
+
+[menu]
+
+[[menu.main]]
+name = "ಲೇಖನಗಳು"
+url = "/posts/"
+weight = 1
+
+[[menu.main]]
+name = "ನನ್ನ ಬಗ್ಗೆ"
+url = "/about/"
+weight = 2
