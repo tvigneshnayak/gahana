@@ -6,8 +6,8 @@ title: "ನನ್ನ ಬಗ್ಗೆ"
 
 ### ಸಂಪರ್ಕ
 
-Instagram: https://instagram.com/yourhandle
+Instagram: 
 
 GitHub: https://github.com/tvigneshnayak
 
-Email: yourmail@example.com
+Email: 
