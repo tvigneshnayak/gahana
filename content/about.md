@@ -6,8 +6,4 @@ title: "ನನ್ನ ಬಗ್ಗೆ"
 
 ### ಸಂಪರ್ಕ
 
-Instagram: 
-
 GitHub: https://github.com/tvigneshnayak
-
-Email: 
