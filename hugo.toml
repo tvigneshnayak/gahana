@@ -1,4 +1,4 @@
-baseURL = '/'
+baseURL = 'https://tvigneshnayak.github.io/gahana/'
 locale = 'kn-IN'
 title = 'ಗಹನ'
 theme = 'ananke'
