@@ -8,6 +8,20 @@ pagerSize = 10
 
 [params]
 description = 'ಕನ್ನಡದಲ್ಲಿ ತಂತ್ರಜ್ಞಾನ, ಇತಿಹಾಸ, ಭಾಷೆ ಮತ್ತು ಚಿಂತನೆ'
+giscusEnable = true
+
+[params.giscus]
+repo = 'tvigneshnayak/gahana'
+repo_id = 'R_kgDOSrmiWw'
+category = 'Announcements'
+category_id = 'DIC_kwDOSrmiW84C_AfS'
+mapping = 'pathname'
+strict = '1'
+reactions_enabled = '1'
+emit_metadata = '0'
+input_position = 'top'
+theme = 'preferred_color_scheme'
+lang = 'en'
 
 
 
